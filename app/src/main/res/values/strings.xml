@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DataStorageApplication</string>
+    <string name="model">Модель телефона</string>
+    <string name="snumber">Серийный номер</string>
+    <string name="price">Цена</string>
+    <string name="add">Добавить</string>
+    <string name="next">Продолжить</string>
+    <string name="insert_success">Запись успешно добавлена!</string>
+    <string name="insert_error">При добавлении произошла ошибка</string>
+    <string name="incorrect_value">Вы ввелии некорректное значение</string>
+</resources>
